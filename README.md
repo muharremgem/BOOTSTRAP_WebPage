@@ -6,7 +6,7 @@ Project aims to create Bootstrap_WebPage within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[WebPage](https://bootstrap-web-page.vercel.app/#)| Html Css Bootstrap |![WebPage](./image.webpage.gif)
+[WebPage](https://bootstrap-web-page.vercel.app/#)| Html Css Bootstrap |![WebPage](./image/webpage.gif)
 
 
 ## Problem Statement
