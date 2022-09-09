@@ -35,13 +35,13 @@ Functionally create a Bootstrap_WebPage as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML Navbar
+- HTML Navbar,banner, services
 
-- HTML image
+- HTML Portfolio, about us, team, contact
 
 - CSS Colors-Border Properties
 
-- CSS Margins-Padding
+- CSS Bootstrap-Margins-Padding-fluid
 
 - CSS Properties for Texts-Font "Lato", sans-serif;
 
