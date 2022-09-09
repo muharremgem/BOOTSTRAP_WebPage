@@ -19,7 +19,7 @@ Project aims to create Bootstrap_WebPage within html and css.
 ## Project Skeleton 
 
 ```
-001-Bootstrap_site (folder)
+001-Bootstrap_Webpage (folder)
 |----image
 |----readme.md                 
 |----index.html  
