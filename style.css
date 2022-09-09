@@ -1,0 +1,10 @@
+.banner{
+    background: url("./image/banner.jpeg")
+    no-repeat center center;
+    background-size:cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: purple;
+    height: 100vh;
+    
+}
