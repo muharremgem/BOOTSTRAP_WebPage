@@ -8,3 +8,18 @@
     height: 100vh;
     
 }
+
+.circle{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.circle i{
+    position: relative;
+    top: 30px;
+}
